@@ -1,6 +1,13 @@
 ## SevenDreamer
 
-- Using Rust/Python/Lua
+😉 Welcome here！
+
+- Using Python/Rust/Lua
+- Learing Frontend，Japanese
+
+🤔 By the way, Why are there so many things to learn?
+
+😂 Day by day, there is no end to learning.
 
 ## Skills / Tools
 
